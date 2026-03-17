@@ -14,6 +14,22 @@ This project predicts tourism demand using historical data and machine learning 
 
 ---
 
+## 📸 Screenshots
+
+### 📊 Dataset Preview
+![Dataset](images/tourism_dataset_preview.png)
+
+### 📈 Tourism Trend
+![Trend](images/tourism_trend_graph.png)
+
+### 🔥 Correlation Heatmap
+![Heatmap](images/tourism_correlation_heatmap.png)
+
+### 🤖 Prediction Output
+![Prediction](images/tourism_prediction_output.png)
+
+---
+
 ## 🛠️ Tech Stack
 - Python  
 - Pandas, NumPy  
