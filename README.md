@@ -1,4 +1,4 @@
-# 🌍 2. Tourism Demand Prediction
+# 🌍 Tourism Demand Prediction
 
 ## 📌 Project Description
 This project predicts tourism demand using historical data and machine learning models. It helps analyze trends and forecast future tourist visits for better decision-making.
