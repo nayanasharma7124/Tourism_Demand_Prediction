@@ -19,9 +19,6 @@ This project predicts tourism demand using historical data and machine learning 
 ### 📊 Dataset Preview
 ![Dataset](images/tourism_dataset_preview.png)
 
-### 📈 Tourism Trend
-![Trend](images/tourism_trend_graph.png)
-
 ### 🔥 Correlation Heatmap
 ![Heatmap](images/tourism_correlation_heatmap.png)
 
