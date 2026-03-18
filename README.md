@@ -23,9 +23,8 @@ This project predicts tourism demand using historical data and machine learning 
 ![Heatmap](images/tourism_correlation_heatmap.png)
 
 ### 🤖 Prediction Output
-![Prediction](images/tourism_prediction_output.png)
-(images/tourism_prediction_output2.png)
-
+![Prediction](images/tourism_prediction_output.png) 
+![](images/tourism_prediction_output2.png)
 ---
 
 ## 🛠️ Tech Stack
